@@ -7,9 +7,7 @@
 
 ###
 
-<div align="center">
-  <img height="226" src="https://sabinpaudel.com.np/unnamed.jpg"  />
-</div>
+
 
 ###
 
